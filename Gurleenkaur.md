@@ -18,7 +18,8 @@ puts("~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
 }
 ```
 Output :-
-![](/images/1.jpg)
+
+![](/image/1.jpg)
 ***
 ## 2) To print college address.
 ```C
@@ -34,6 +35,7 @@ return 0;
 }
 ```
 Output :-
+![](/image/2.jpg)
 ***
 ## 3) Program to add two numbers.
 ```C
@@ -48,6 +50,7 @@ printf("%d=%d+%d \n",c,a,b);
 }
 ```
 Output:-
+![](/image/3.jpg)
 ***
 ## 4) Program to find quotient and remainder.
 ```C
@@ -67,6 +70,7 @@ printf("Rem = %d", rem);
 }
 ```
 Output:-
+![](/image/4.jpg)
 ***
 ## 5) Program to swap two no.s without 3rd variable.
 ```C
@@ -83,6 +87,7 @@ int main()
 }
 ```
 Output:-
+![](/image/5.jpg)
 ***
 ## 6) To check even or odd number.
 ```C
@@ -103,6 +108,7 @@ printf("The number is odd");
 }
 ```
 Output:-
+![](/image/6.jpg)
 ***
 ## 7) Finding greatest of two numbers.
 ```C
@@ -122,6 +128,8 @@ return 0;
 }
 ```
 Output:-
+![](/image/7.jpg)
+
 ***
 ## 8) To find greatest of 3 numbers.
 ```C
@@ -152,6 +160,8 @@ void main()
 }
 ```
 Output:-
+![](/image/8.jpg)
+
 ***
 ## 9) Program to grade to student according to percentage.
 ```C
@@ -178,6 +188,8 @@ else if(marks<=70 && marks>60)
 }
 ```
 Output:-
+![](/image/9.jpg)
+
 ***
 ## 10) Program to print roots of quadric equation.
 ```C
@@ -233,6 +245,8 @@ else if (disc > 0 )
 }
 ```
 Output:-
+![](/image/10.jpg)
+
 ***
 ## 11) Program to check year is leap or not.
 ```C
@@ -265,6 +279,8 @@ else
 }
 ```
 Output:-
+![](/image/11.jpg)
+
 ***
 ## 12) To print table of 5.
 ```C
@@ -283,6 +299,7 @@ res=5*i;
 }
 ```
 Output:-
+![](/image/12.jpg)
 ***
 ## 13) To make simple calculator using switch case.
 ```C
@@ -322,6 +339,7 @@ return 0;
 }
 ```
 Output:-
+![](/image/13.jpg)
 ***
 ## 14) To calculate reverse of a number.
 ```C
@@ -342,6 +360,7 @@ printf("The number is reversed");
 scanf("%d",&n);
  }
 ```
+![](/image/14.jpg)
 ***
 ## 15) To check whether a no. is palindrome or not.
 ```C
@@ -369,6 +388,7 @@ int main()
 }
 ```
 Output:-
+![](/image/15.jpg)
 ***
 ## 16) To check whether a number is prime or not.
 ```C
@@ -403,6 +423,7 @@ int main()
 }
 ```
 Output:-
+![](/image/16.jpg)
 ***
 ## 17) Program to print prime no. to 100.
 ```C
@@ -441,6 +462,7 @@ printf(" The prime numbers between 1 and 100 : \n");
    }
 ```
 Output:-
+![](/image/17.jpg)
 ***
 ## 18) Program to check whether a no. is amstrong or not.
 ```C
@@ -463,6 +485,7 @@ printf("The number is not armstrong\n");
 }
 ```
 Output:-
+![](/image/18.jpg)
 ***
 ## 19) Print different patterns.
    - pattern 1
@@ -487,7 +510,7 @@ for(i=1; i<=r; ++i)
 }
 ```
 Output:-
-
+![](/image/19i.jpg)
 - pattern 2
 
 ```C
@@ -510,6 +533,7 @@ int main() {
 }
 ```
 Output:-
+![](/image/19ii.jpg)
 ***
 ## 20) Program to find largest from 1-D array.
 ```C
@@ -543,6 +567,7 @@ int main()
 }
 ```
 Output:-
+![](/image/20.jpg)
 ***
 ## 21) To find sum of N natural numbers in an array.
 ```C
@@ -568,6 +593,7 @@ for(c = 0; c < n; c++)
 }
 ```
 Output:-
+![](/image/21.jpg)
 ***
 ## 22) Program to add two matrices.
 ```C
@@ -601,6 +627,7 @@ printf("Enter the elements of second matrix\n");
 }
 ```
 Output:-
+![](/image/22.jpg)
 ***
 ## 23) Multiplication of matrices.
 ```C
@@ -649,6 +676,7 @@ printf("\n");
 }
 ```
 Output:-
+![](/image/23.jpg)
 ***
 ## 24) Program to check whether a string is palindrome or not .
 ```C 
@@ -682,6 +710,7 @@ int main(){
 }
 ```
 Output:-
+![](/image/24.jpg)
 ***
 ## 25) Program to perform basic operations like lenghth of string ,string concat, string copy ,string compare and string reverse.
 ```C
@@ -774,6 +803,7 @@ int main() {
 }
 ```
 Output:-
+![](/image/25.jpg)
 ***
 ## 26) Programs to swap two numbers using call by value and call by refernce.
 - Call by reference
@@ -807,7 +837,7 @@ void swap(int *a, int *b)
 }
 ```
 Output:-
-
+![](/image/26ii.jpg)
 - call by value:-
 ```C
 #include <stdio.h>
@@ -840,6 +870,7 @@ void swap(int a, int b) {
 }
 ```
 Output:-
+![](/image/26i.jpg)
 ***
 ## 27) Program to calculate factorial of a number with and without recursion both.
 ### with recursion
@@ -863,7 +894,7 @@ long int multiplyNumbers(int n)
 }
 ```
 Output:-
-
+![](/image/27ii.jpg)
 ## without recursion 
 ```C
 #include <stdio.h>
@@ -883,6 +914,7 @@ int main()
 } 
 ```
 Output:-
+![](/image/27i.jpg)
 ***
 ## 28) Program to print fibonacci series with and without recursion both.
 ### with recursion
@@ -920,7 +952,7 @@ void series(int n)
 }
 ```
 Output:-
-
+![](/image/28.jpg)
 ## without recursion
 ```C
 #include<stdio.h>
@@ -972,6 +1004,7 @@ return result;
 }
 ```
 Output:-
+![](/image/29.jpg)
 ***
 ## 30) Program to implement bubble sort.
 ```C
@@ -1011,6 +1044,7 @@ int main()
 }
 ```
 Output:-
+![](/image/31.jpg)
 ***
 ## 31) Program to implement binary and linear search.
  - binary search:-
@@ -1088,6 +1122,8 @@ int main()
 }
 ```
 Output:-
+![](/image/30i.jpg)
+![](/image/30ii.jpg)
 ***
 
 ## 32) Program to store information of 10 students using array of structures.
@@ -1124,6 +1160,7 @@ struct student{
 }
 ```
 Output:-
+![](/image/32.jpg)
 ***
 ## 33) Program for Transpose of a matrix.
 ```C
@@ -1161,6 +1198,7 @@ printf("\n");
 }
 ```
 Output:-
+![](/image/33.jpg)
 ***
 ## 34) Program to print the address of variable using pointer.
 ```C
@@ -1178,6 +1216,7 @@ int main() {
 }
 ```
 Output:-
+![](/image/35i.jpg)
 ***
 ## 35) Program to access array using pointer.
 ```C
@@ -1195,3 +1234,4 @@ int main()
 }
 ```
 Output:-
+![](/image/35ii.jpg)
