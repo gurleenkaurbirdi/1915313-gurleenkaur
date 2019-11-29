@@ -17,7 +17,8 @@ puts("My name is Guleen Kaur Birdi");
 puts("~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
 }
 ```
-Output :-![](https://ibb.co/k4pQ6wZ)
+Output :-
+![](/images/1.jpg)
 ***
 ## 2) To print college address.
 ```C
